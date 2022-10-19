@@ -1,5 +1,7 @@
 ## Browser application
 
+ビルドには.NET 7が必要です
+
 ## Build
 
 You can build the application from Visual Studio or by dotnet cli
